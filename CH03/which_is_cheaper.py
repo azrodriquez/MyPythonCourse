@@ -21,8 +21,7 @@ import math
 totalsum = price1 + price2
 print(totalsum)
 print("The discount price is: $" + totalsum * .10)
-print("The truncated value of product1 is: ")
-print("The truncated value is: " + math.trunc(price1))
-print("The rounded value is: " + math.round(price1,1))
+print("The truncated value of product1 is: " + math.trunc(price1)
+print("The rounded value of product1 is: " + round(price1))
 print("The floor value is: " + math.floor(price1))
 print("The ceiling value is: " + math.ceil(price1))
