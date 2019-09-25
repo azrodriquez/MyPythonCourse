@@ -21,7 +21,7 @@ print('removed .py\t\t', program_name)
 
 #upper
 program_name = program_name.upper()
-print('upper\t\t\t', program_name)
+print('upper\t\t', program_name)
 
 #create welcome message
 welcome_message = 'Welcome to {}'
