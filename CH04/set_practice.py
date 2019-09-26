@@ -1,10 +1,11 @@
+#this is exercise 1
 # num_set = {2,6,4,2,22,54,12,18,-1}
 
 # print(num_set)
 # print(len(num_set))
 
 
-
+#this is exercise 2
 # import random
 
 # name_list = ['adam', 'barry', 'doug', 'cathy', 'ellen']
